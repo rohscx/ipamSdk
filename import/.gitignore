@@ -101,14 +101,8 @@ dist
 .dynamodb/
 
 # TernJS port file
-.tern-port
-
-# Ignore Stuff 
-#!/tasks/folderTemplate
-/tasks/*
-!/tasks/folderTemplate
+*.txt
+*.json
+*.js
 
 
-
-serverAuth.js
-serverUrls.js

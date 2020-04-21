@@ -1,0 +1,18 @@
+{
+    "name": "netboxsdk",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bent": "^7.1.2",
+        "bottleneck": "^2.19.5",
+        "cli-progress": "^3.6.1",
+        "colors": "^1.4.0",
+        "nodeutilz": "^1.2.13"
+    }
+}

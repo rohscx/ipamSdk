@@ -109,6 +109,13 @@ dist
 !/tasks/folderTemplate
 
 
-
+# Custom
+securityConfiguration.js
+export/*/*[.png,.txt,.js,.json,.csv,.html]
+import/*/*[.png,.txt,.js,.json,.csv,.html]
+tasks/*/*[.png,.txt,.js,.json,.csv,.html]
+export/*[.png,.txt,.js,.json,.csv,.html]
+import/*[.png,.txt,.js,.json,.csv,.html]
+tasks/*[.png,.txt,.js,.json,.csv,.html]
 serverAuth.js
 serverUrls.js
